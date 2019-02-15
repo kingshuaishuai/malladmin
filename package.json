@@ -1,0 +1,8 @@
+{
+  "name": "malladmin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitee.com:ysgeek/malladmin.git",
+  "author": "kingshuaishuai <1244943563@qq.com>",
+  "license": "MIT"
+}
